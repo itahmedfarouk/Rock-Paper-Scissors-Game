@@ -50,10 +50,14 @@ You will play against the computer for a specified number of rounds. After each 
 ## Usage
 1. **Run the game:**
    `python rock_paper_scissors.py`
-2. **Follow the prompts:**
+   
+3. **Follow the prompts:**
    -Enter the number of rounds you want to play.
+   
    -Choose rock, paper, or scissors when prompted.
+   
    -The game will display the computer's choice and the result of each round.
+   
 ## Example Gameplay
 Here’s an example of how the game works:
 ```
@@ -70,6 +74,7 @@ Here’s an example of how the game works:
 ````
 ## Technologies Used
 Python: The game is written in Python.
+
 Libraries:
 
   -random: For generating the computer's choices.
