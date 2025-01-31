@@ -71,15 +71,20 @@ Here’s an example of how the game works:
 ## Technologies Used
 Python: The game is written in Python.
 Libraries:
+
   -random: For generating the computer's choices.
+  
   -termcolor: For colored output in the terminal.
   
 ## Contributing
 Contributions are welcome! If you'd like to improve the game or add new features, follow these steps:
   Fork the repository.
-  Create a new branch (`git checkout -b feature/YourFeatureName`).
+  Create a new branch (`git checkout -b feature/YourFeatureName`). 
+  
   Commit your changes (`git commit -m 'Add some feature`').
+  
   Push to the branch (`git push origin feature/YourFeatureName`).
+  
   Open a pull request.
 
 
@@ -89,5 +94,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Author
 👤 Ahmed Farouk
+
 GitHub: itahmedfarouk
+
 Email: itahmedfarouk@gmail.com
